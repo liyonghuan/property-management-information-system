@@ -1,29 +1,29 @@
-1. ³õÊ¼¹ÜÀíÔ±ÕËºÅadmin,ÃÜÂëadmin£»
-2. µ¼³öExcel¹¦ÄÜ¿ÉÄÜ»áÓĞÒòµçÄÔµÄOffice°æ±¾²»Í¬³öÏÖ´íÎóµÄÇé¿ö£»
-3. Êı¾İ¿â±¸·İÎÄ¼şÔÚÎÄ¼ş¼ĞÏÂµÄ¡°Êı¾İ¿âÎÄ¼ş¡±ÎÄ¼ş¼ĞÏÂ£¬wymis_bakÎª±¸·İµÄÎÄ¼ş£¬ÆäÓàÁ½¸ömdf\ldfÎÄ¼şÎªÊı¾İ¿âÎÄ¼ş£»
-4. µÇÂ¼´°¿ÚÓĞÁ½ÖÖÄ£Ê½£¬Ô±¹¤Ä£Ê½ÊÇ¹ÜÀíÔ±µÇÂ¼£¬ÒµÖ÷Ä£Ê½ÊÇ¿Í»§µÇÂ¼£»
-5. ÕËºÅµÄÃÜÂë²ÉÓÃÁËMD532Î»µÄ¼ÓÃÜËã·¨¼ÓÃÜ£¬ÔÚÊı¾İ¿âÖĞÖ±½ÓÌí¼ÓÓÃ»§ÓĞ¿ÉÄÜ²»ÄÜÊ¹ÓÃ£¬¡°admin¡±µÄMD532Î»¼ÓÃÜÂëÎª£º21232f297a57a5a743894a0e4a801fc3¡£
+1. åˆå§‹ç®¡ç†å‘˜è´¦å·admin,å¯†ç adminï¼›
+2. å¯¼å‡ºExcelåŠŸèƒ½å¯èƒ½ä¼šæœ‰å› ç”µè„‘çš„Officeç‰ˆæœ¬ä¸åŒå‡ºç°é”™è¯¯çš„æƒ…å†µï¼›
+3. æ•°æ®åº“å¤‡ä»½æ–‡ä»¶åœ¨æ–‡ä»¶å¤¹ä¸‹çš„â€œæ•°æ®åº“æ–‡ä»¶â€æ–‡ä»¶å¤¹ä¸‹ï¼Œwymis_bakä¸ºå¤‡ä»½çš„æ–‡ä»¶ï¼Œå…¶ä½™ä¸¤ä¸ªmdf\ldfæ–‡ä»¶ä¸ºæ•°æ®åº“æ–‡ä»¶ï¼›
+4. ç™»å½•çª—å£æœ‰ä¸¤ç§æ¨¡å¼ï¼Œå‘˜å·¥æ¨¡å¼æ˜¯ç®¡ç†å‘˜ç™»å½•ï¼Œä¸šä¸»æ¨¡å¼æ˜¯å®¢æˆ·ç™»å½•ï¼›
+~~5. è´¦å·çš„å¯†ç é‡‡ç”¨äº†MD532ä½çš„åŠ å¯†ç®—æ³•åŠ å¯†ï¼Œåœ¨æ•°æ®åº“ä¸­ç›´æ¥æ·»åŠ ç”¨æˆ·æœ‰å¯èƒ½ä¸èƒ½ä½¿ç”¨ï¼Œâ€œadminâ€çš„MD532ä½åŠ å¯†ç ä¸ºï¼š21232f297a57a5a743894a0e4a801fc3ã€‚~~
 
-![µÇÂ¼½çÃæ](https://github.com/liyonghuan/property-management-information-system/blob/master/docs/images/image001.png?raw=true)
+![ç™»å½•ç•Œé¢](https://github.com/liyonghuan/property-management-information-system/blob/master/docs/images/image001.png?raw=true)
 
-![¹ÜÀíÔ±Ö÷½çÃæ](https://github.com/liyonghuan/property-management-information-system/blob/master/docs/images/image002.png?raw=true)
+![ç®¡ç†å‘˜ä¸»ç•Œé¢](https://github.com/liyonghuan/property-management-information-system/blob/master/docs/images/image002.png?raw=true)
 
-![ÒµÖ÷Ö÷½çÃæ](https://github.com/liyonghuan/property-management-information-system/blob/master/docs/images/image004.png?raw=true)
+![ä¸šä¸»ä¸»ç•Œé¢](https://github.com/liyonghuan/property-management-information-system/blob/master/docs/images/image004.png?raw=true)
 
-![Ìí¼Ó¿ª·¢ÉÌ](https://github.com/liyonghuan/property-management-information-system/blob/master/docs/images/image006.png?raw=true)
+![æ·»åŠ å¼€å‘å•†](https://github.com/liyonghuan/property-management-information-system/blob/master/docs/images/image006.png?raw=true)
 
-![Ìí¼ÓÂ¥ÅÌ](https://github.com/liyonghuan/property-management-information-system/blob/master/docs/images/image007.png?raw=true)
+![æ·»åŠ æ¥¼ç›˜](https://github.com/liyonghuan/property-management-information-system/blob/master/docs/images/image007.png?raw=true)
 
-![Ìí¼Ó×¡·¿](https://github.com/liyonghuan/property-management-information-system/blob/master/docs/images/image008.png?raw=true)
+![æ·»åŠ ä½æˆ¿](https://github.com/liyonghuan/property-management-information-system/blob/master/docs/images/image008.png?raw=true)
 
-![Ìí¼ÓÒµÖ÷](https://github.com/liyonghuan/property-management-information-system/blob/master/docs/images/image009.png?raw=true)
+![æ·»åŠ ä¸šä¸»](https://github.com/liyonghuan/property-management-information-system/blob/master/docs/images/image009.png?raw=true)
 
-![Ìí¼Ó¸ÚÎ»](https://github.com/liyonghuan/property-management-information-system/blob/master/docs/images/image010.png?raw=true)
+![æ·»åŠ å²—ä½](https://github.com/liyonghuan/property-management-information-system/blob/master/docs/images/image010.png?raw=true)
 
-![Ìí¼ÓÔ±¹¤](https://github.com/liyonghuan/property-management-information-system/blob/master/docs/images/image011.png?raw=true)
+![æ·»åŠ å‘˜å·¥](https://github.com/liyonghuan/property-management-information-system/blob/master/docs/images/image011.png?raw=true)
 
-![Ìí¼ÓÈÕ³£ÈÎÎñ](https://github.com/liyonghuan/property-management-information-system/blob/master/docs/images/image012.png?raw=true)
+![æ·»åŠ æ—¥å¸¸ä»»åŠ¡](https://github.com/liyonghuan/property-management-information-system/blob/master/docs/images/image012.png?raw=true)
 
-![Ìí¼Ó·şÎñÉêÇë](https://github.com/liyonghuan/property-management-information-system/blob/master/docs/images/image013.png?raw=true)
+![æ·»åŠ æœåŠ¡ç”³è¯·](https://github.com/liyonghuan/property-management-information-system/blob/master/docs/images/image013.png?raw=true)
 
-![Ìí¼ÓÊÕ·ÑÏîÄ¿](https://github.com/liyonghuan/property-management-information-system/blob/master/docs/images/image014.png?raw=true)
+![æ·»åŠ æ”¶è´¹é¡¹ç›®](https://github.com/liyonghuan/property-management-information-system/blob/master/docs/images/image014.png?raw=true)
