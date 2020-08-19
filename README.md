@@ -4,6 +4,7 @@
 4. 登录窗口有两种模式，员工模式是管理员登录，业主模式是客户登录；
 
 ~~5. 账号的密码采用了MD532位的加密算法加密，在数据库中直接添加用户有可能不能使用，“admin”的MD532位加密码为：21232f297a57a5a743894a0e4a801fc3。~~
+5.需手动将yuangong表中的admin密码修改为明文的admin密码才能登陆成功，估计是当时保存的代码不是最终代码。
 
 ![登录界面](https://github.com/liyonghuan/property-management-information-system/blob/master/docs/images/image001.png?raw=true)
 
